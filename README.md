@@ -1,7 +1,10 @@
 # LLM-Agent-Platform
 
 ## Overview
-The **LLM-Agent-Platform** is a sophisticated system that leverages advanced Large Language Models (LLMs) to create a feedback loop between two agents: a *Writer Agent* and a *Critic Agent*. This dynamic interaction enables iterative refinement of text, ensuring high-quality outputs through collaborative analysis and improvement.
+The **LLM-Agent-Platform** is a sophisticated system that leverages advanced Large Language Models (LLMs) to create a feedback loop between two agents: 
+a *Writer Agent* and a *Critic Agent*. 
+
+This dynamic interaction enables iterative refinement of text, ensuring high-quality outputs through collaborative analysis and improvement.
 
 ## Features
 - **Seamless Integration**: Quickly set up the platform by connecting API keys from both [Groq](https://groq.com) and OpenAI.
@@ -69,7 +72,7 @@ We welcome contributions to the LLM-Agent-Platform! If you have suggestions for 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or support, please contact [mail](mailto:vasamsettiharsha@gmail.com).
 
 ---
 
